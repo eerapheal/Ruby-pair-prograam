@@ -41,7 +41,7 @@ def decode_char(str)
   @morse_code[str]
 end
 
-# testing the decode_char func
+# test the decode_char
 puts decode_char('-...')
 
 def decode_word(morse_word)
@@ -63,6 +63,6 @@ def decode_bottle(morse_bottle)
   bottle
 end
 
-# testing the decode_word func
+# testing function
 puts decode_word('-- -.--')
 puts decode_bottle('.-   -... --- -..-   ..-. ..- .-.. .-..   --- ..-.   .-. ..- -... .. . ...')
