@@ -1,3 +1,4 @@
+# Ruby-pair-prograam
 
 <a name="readme-top"></a>
 
@@ -62,7 +63,7 @@ In order to run this project you need:
 Clone this repository to your desired folder:
 
 ```
-git clone https://github.com/Masouma864/Vet-clinic.git
+git clone https://github.com/eerapheal/Ruby-pair-prograam.git
 
 cd Ruby-pair-prograam
 ```
